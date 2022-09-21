@@ -1,0 +1,12 @@
+{
+    "translation": {
+      "login": {
+        "title": "SignIn",
+        "email": "Email",
+        "password": "Password",
+        "goToSignUp": "SignUp",
+        "changeLanguage": "change language",
+        "submit": "submit"
+      }
+    }
+}

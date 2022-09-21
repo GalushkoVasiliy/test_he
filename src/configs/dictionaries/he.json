@@ -1,0 +1,12 @@
+{
+  "translation": {
+    "login": {
+      "title": "כותרת",
+      "email": "אימייל",
+      "password": "סיסמה",
+      "goToSignUp": "הירשם",
+      "changeLanguage": "שנה שפה",
+      "submit": "שלח"
+    }
+  }
+}
